@@ -37,3 +37,20 @@ This project analyzes historical car sales and profits for SwiftAuto Traders, a 
 | Hudson Profits by Dealer ID | Line Chart (Green) |
 | Customer Sentiment | Treemap |
 | Recalls by Model & System | Heatmap |
+
+## 📸 Dashboard Preview
+
+### Sales Dashboard
+![Sales Dashboard](Screenshot%202026-03-09%20152032.png)
+
+![Sales Dashboard Bottom](Screenshot%202026-03-09%20152046.png)
+
+### Service Dashboard
+![Service Dashboard](Screenshot%202026-03-09%20152132.png)
+
+![Service Dashboard Bottom](Screenshot%202026-03-09%20152154.png)
+
+### Excel Charts
+![Excel Charts](Screenshot%202026-03-09%20152229.png)
+
+![Excel Charts Bottom](Screenshot%202026-03-09%20152257.png)
