@@ -54,16 +54,17 @@ This project analyzes historical car sales and profits for SwiftAuto Traders, a 
 ![Excel Charts](Screenshot%202026-03-09%20152229.png)
 
 ![Excel Charts Bottom](Screenshot%202026-03-09%20152257.png)
+
 ## 📊 Dashboard Charts
 
 ### Sheet 1 - Quantity Sold by Dealer ID
-![Quantity Sold by Dealer](./sheet1-quantity-by-dealer.png)
+![Quantity Sold by Dealer](./Screenshot%202026-03-10%20034550.png)
 
 ### Sheet 2 - Profit by Date and Model
-![Profit by Model](./sheet2-profit-by-model.png)
+![Profit by Model](./Screenshot%202026-03-10%20034635.png)
 
 ### Sheet 3 - Profit by Year and Dealer ID
-![Profit by Year](./sheet3-profit-by-year.png)
+![Profit by Year](./Screenshot%202026-03-10%20034657.png)
 
 ### Sheet 4 - Hudson Models Profit by Dealer ID
-![Hudson Profit](./sheet4-hudson-profit.png)
+![Hudson Profit](./Screenshot%202026-03-10%20034713.png)
